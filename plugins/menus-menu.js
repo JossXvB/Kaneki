@@ -21,15 +21,15 @@ const handler = async (m, {conn, usedPrefix, usedPrefix: _p, __dirname, text, is
     const taguser = '@' + m.sender.split('@s.whatsapp.net')[0];
     const doc = ['pdf', 'zip', 'vnd.openxmlformats-officedocument.presentationml.presentation', 'vnd.openxmlformats-officedocument.spreadsheetml.sheet', 'vnd.openxmlformats-officedocument.wordprocessingml.document'];
     const document = doc[Math.floor(Math.random() * doc.length)];
-    const str = `ㅤㅤ 𝑲𝒂𝒏𝒆𝒌𝒊⚡
+    const str = `ㅤㅤ 𝙆𝙖𝙣𝙚𝙠𝙞𝙯𝙭𝙭⚡
 
- ▢ *Hola ,* ${taguser} este es el  𝑲𝒂𝒏𝒆𝒌𝒊⚡
+ ▢ *Hola ,* ${taguser} este es el  𝙆𝙖𝙣𝙚𝙠𝙞𝙯𝙭𝙭⚡
 
  ┎━━━━━━━ ∙ʚ🤴🏻ɞ∙ ━━━━━━━┒
  🤴🏻 Creador : 𝑲𝒂𝒏𝒆𝒌𝒊
  🌩️ Numero:  wa.me/+56945843173
  💤 Adquirir : wa.me/+56945843173
- 🔱 Ig : @xs.kanekii
+ ⚡ Ig : @xs.kanekii
  ⏳ *Uptime:* ${uptime}
  👥 *Usuarios regs:* ${rtotalreg}
  🔮 *Usuarios totales:* ${rtotal}

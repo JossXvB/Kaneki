@@ -41,10 +41,10 @@ global.suittag = ['56986469687'];
 global.prems = ['56986469687'];
 
 global.packname = '𝑻𝒐𝒎𝒂 𝑻𝒖 𝑺𝒕𝒊𝒄𝒌𝒆𝒓';
-global.author = '𝑲𝒂𝒏𝒆𝒌𝒊⚡';
-global.wm = '𝑲𝒂𝒏𝒆𝒌𝒊⚡';
-global.titulowm = '𝑲𝒂𝒏𝒆𝒌𝒊⚡';
-global.titulowm2 = `𝑲𝒂𝒏𝒆𝒌𝒊⚡`
+global.author = '𝙆𝙖𝙣𝙚𝙠𝙞𝙯𝙭𝙭⚡';
+global.wm = '𝙆𝙖𝙣𝙚𝙠𝙞𝙯𝙭𝙭⚡';
+global.titulowm = '𝙆𝙖𝙣𝙚𝙠𝙞𝙯𝙭𝙭⚡';
+global.titulowm2 = `𝙆𝙖𝙣𝙚𝙠𝙞𝙯𝙭𝙭⚡`
 global.igfg = '𝑲𝒂𝒏𝒆𝒌𝒊⚡';
 global.wait = '*[ ⏳ ] Cargando...*';
 
@@ -66,9 +66,9 @@ global.mes = d.toLocaleDateString('es', {month: 'long'});
 global.año = d.toLocaleDateString('es', {year: 'numeric'});
 global.tiempo = d.toLocaleString('en-US', {hour: 'numeric', minute: 'numeric', second: 'numeric', hour12: true});
 //* ****************************
-global.wm2 = `${dia} ${fecha}\n𝑲𝒂𝒏𝒆𝒌𝒊⚡`;
-global.gt = '𝑲𝒂𝒏𝒆𝒌𝒊⚡';
-global.mysticbot = '𝑲𝒂𝒏𝒆𝒌𝒊⚡';
+global.wm2 = `${dia} ${fecha}\n𝙆𝙖𝙣𝙚𝙠𝙞𝙯𝙭𝙭⚡`;
+global.gt = '𝙆𝙖𝙣𝙚𝙠𝙞𝙯𝙭𝙭⚡';
+global.mysticbot = '𝙆𝙖𝙣𝙚𝙠𝙞𝙯𝙭𝙭⚡';
 global.md = 'https://www.instagram.com/xs.kanekii/';
 global.mysticbot = 'https://www.instagram.com/xs.kanekii/';
 global.waitt = '*[ ⏳ ] Cargando...*';
